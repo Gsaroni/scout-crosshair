@@ -1,0 +1,52 @@
+hudlayout
+
+Scoutch
+  {
+    "controlName"  "CExLabel"
+    "fieldName"     "Scoutch"
+    "visible"    "1"
+    "enabled"    "1"
+    "zpos"      "1"
+    "xpos"      "c-15"
+    "ypos"      "c-16"
+    "wide"      "30"
+    "tall"      "25"
+    "font"      "Scoutch"
+    "labelText"    "C"
+    "fgcolor"    "255 255 255 220"
+    "textAlignment"  "center"
+  }
+  Scoutch2
+  {
+    "controlName"  "CExLabel"
+    "fieldName"     "Scoutch2"
+    "visible"    "1"
+    "enabled"    "1"
+    "zpos"      "1"
+    "xpos"      "c-15"
+    "ypos"      "c-16"
+    "wide"      "30"
+    "tall"      "25"
+    "font"      "Scoutch"
+    "labelText"    "D"
+    "fgcolor"    "255 255 255 125"
+    "textAlignment"  "center"
+  }
+  
+  
+  
+clientscheme
+
+
+"Scoutch"
+    		{
+   		   "1"
+     			 {
+       				 "name"    "tf2Default"
+				 "tall"    "29"
+        			 "weight"  "0"
+       				 "antialias"  "1"
+       				 "additive"  "0"
+       				 "outline"   "0"
+     			 }
+   		 }
